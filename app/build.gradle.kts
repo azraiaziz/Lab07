@@ -7,6 +7,10 @@ android {
     namespace = "com.example.lab07"
     compileSdk = 35
 
+    buildFeatures{
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.example.lab07"
         minSdk = 26

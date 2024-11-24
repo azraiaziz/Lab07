@@ -123,5 +123,7 @@
         android:layout_height="wrap_content"
         android:text="Schedule"
         android:layout_gravity="center"
+        android:id="@+id/schedule"
+        />
 
 </LinearLayout>
